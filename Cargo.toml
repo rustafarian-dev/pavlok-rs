@@ -2,6 +2,11 @@
 name = "pavlok"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/rustafarian-dev/pavlok-rs"
+description = "A client library for communicating with the Pavlok API"
+readme = "README.md"
+license = "MIT"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
